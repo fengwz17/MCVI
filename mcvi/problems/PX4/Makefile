@@ -4,15 +4,15 @@ SRC = ../../src/
 PROB = ./
 
 # Header and souce for the model
-MODELHDR =	$(PROB)CorridorModel.h
+MODELHDR =	$(PROB)px4Model.h
 
-MODELSRCS =	$(PROB)CorridorModel.cc
+MODELSRCS =	$(PROB)px4Model.cc
 
 # Main file of solver
-SOLVERMAIN = $(PROB)CorridorSolver.cc
+SOLVERMAIN = $(PROB)px4Solver.cc
 
 # Main file of simulator
-SIMULATORMAIN = $(PROB)CorridorSimulator.cc
+SIMULATORMAIN = $(PROB)px4Simulator.cc
 
 # Set compiler options for debugging etc.
 #CXXFLAGS = -Wall -ggdb -O0
