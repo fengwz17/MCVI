@@ -1,4 +1,4 @@
-#include "CorridorModel.h"
+#include "px4Model.h"
 #include "Action.h"
 #include "Solver.h"
 #include "ParticlesBeliefSet.h"
@@ -16,7 +16,7 @@ int main(int argc, char **argv)
 
     solver.input(argc, argv, 2);
 
-    CorridorModel currModel(solver.numNextBeliefStreams);
+    px4Model currModel(solver.numNextBeliefStreams);
 
     Obs initialObs(vector<long>(currModel.getNumObsVar(), 0));
     initialObs.obs[0]=ObsNothing;
