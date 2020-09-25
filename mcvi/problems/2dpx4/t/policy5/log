@@ -1,0 +1,6 @@
+time: 81 uBound: -32.9964 lBound: -40.4375 diff: 7.44112 numBeliefs: 247 numPolicyNodes: 92
+time: 159 uBound: -34.4251 lBound: -40.4375 diff: 6.01237 numBeliefs: 396 numPolicyNodes: 102
+time: 219 uBound: -36.9179 lBound: -40.4337 diff: 3.51575 numBeliefs: 500 numPolicyNodes: 119
+time: 335 uBound: -38.0559 lBound: -40.4337 diff: 2.37777 numBeliefs: 681 numPolicyNodes: 128
+time: 397 uBound: -38.2485 lBound: -40.4337 diff: 2.18517 numBeliefs: 775 numPolicyNodes: 130
+time: 412 uBound: -40.2574 lBound: -40.3193 diff: 0.0619103 numBeliefs: 804 numPolicyNodes: 146
