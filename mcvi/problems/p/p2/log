@@ -1,0 +1,11 @@
+time: 70 uBound: 2.56393 lBound: -131.947 diff: 134.511 numBeliefs: 367 numPolicyNodes: 74
+time: 131 uBound: 1.5152 lBound: -131.947 diff: 133.462 numBeliefs: 532 numPolicyNodes: 113
+time: 192 uBound: 1.5152 lBound: -131.947 diff: 133.462 numBeliefs: 650 numPolicyNodes: 123
+time: 255 uBound: -1.32268 lBound: -131.947 diff: 130.624 numBeliefs: 774 numPolicyNodes: 125
+time: 317 uBound: -1.32268 lBound: -131.947 diff: 130.624 numBeliefs: 881 numPolicyNodes: 148
+time: 393 uBound: -2.6415 lBound: -131.947 diff: 129.305 numBeliefs: 1016 numPolicyNodes: 154
+time: 454 uBound: -2.6415 lBound: -131.947 diff: 129.305 numBeliefs: 1127 numPolicyNodes: 157
+time: 524 uBound: -2.6415 lBound: -131.947 diff: 129.305 numBeliefs: 1234 numPolicyNodes: 175
+time: 603 uBound: -2.6415 lBound: -131.947 diff: 129.305 numBeliefs: 1351 numPolicyNodes: 175
+time: 666 uBound: -2.6415 lBound: -131.947 diff: 129.305 numBeliefs: 1436 numPolicyNodes: 200
+^Ctime: 694 uBound: -2.6415 lBound: -131.947 diff: 129.305 numBeliefs: 1477 numPolicyNodes: 200
